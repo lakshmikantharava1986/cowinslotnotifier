@@ -26,6 +26,10 @@ on how to get token and chatid refer  https://www.itdroplets.com/automating-tele
 
 **----------------------------------------------------------------------------------------------------------------------------------------------**
 
+**How to run this script**
+
+1.Clone the repo to local machine or download the repo to localmachine
+2.find  Slotfinder.ps1 file ,Rightclick and run with powershell
 
 
 This script once run keeps running for forever as it is running in a do while and i have given a condition not a break loop.
@@ -36,3 +40,5 @@ It can run on any windows laptop with just powershell installed on it,no webserv
 
 
 For any suggestion drop me a email at justlakshmikanth@gmail.com
+
+**Stay Safe and Healthy**
