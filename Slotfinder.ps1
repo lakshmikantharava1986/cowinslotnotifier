@@ -79,7 +79,7 @@ Write-host "Started Search at $timestamp "
                 Write-Host " $($session.date)- $($session.min_age_limit)- $($session.available_capacity)" -ForegroundColor red -BackgroundColor white
                 $message=" Slot found  in $($district.Name) at $($centre.name)  on $($session.date) for  age limit $($session.min_age_limit) it has  $($session.available_capacity) available slots"
                  #send notifications
-                 if($enableMailNotification){Send-ToEmail  -email "justlakshmikanth@gmail.com"  -content $message}
+                 if($enableMailNotification){Send-ToEmail  -email "youremailid"  -content $message}
                  if($enableTelegramNotification){SendMessagetoTelegram -content $message}
                 [console]::beep(2000,300)
                 }
