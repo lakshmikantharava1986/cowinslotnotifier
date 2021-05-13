@@ -9,3 +9,11 @@ Below are the resources which  i have used to developed the script
 
 TelegramIntegration:https://www.itdroplets.com/automating-telegram-messages-with-powershell/
 cowin integration:https://documenter.getpostman.com/view/9564387/TzRPip7u
+
+
+**What changes to be done before running script**
+
+
+1.Change the emaiid and password
+
+![image](https://user-images.githubusercontent.com/84151704/118175261-81514300-b44d-11eb-8b1e-2615a54dad91.png)
